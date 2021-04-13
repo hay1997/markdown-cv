@@ -3,11 +3,11 @@ layout: cv
 title: Haley Welch's CV
 ---
 # Haley Welch
-Graduate Student, Master's of Public Policy,Univeristy of California Riverside.
+Graduate Student, Master's of Public Policy, Univeristy of California Riverside.
 
 <div id="webaddress">
-<a href="haleyamanda.welch@gmail.com">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="haleyamanda.welch@gmail.com">haleyamanda.welch@gmail.comg</a>
+| <a href="www.linkedin.com/in/haley-welch-31a327121">My Linkedin page</a>
 </div>
 
 
@@ -17,32 +17,26 @@ First year Graduate Student at the Univeristy of California Riverside
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Political Science, American Politics, Public Policy, Health Policy 
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Health Policy, Urban Policy, Environmental Policy
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`October 2020 - June 2022`
+__University of California Riverside.__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`August 2016 - December 2019`
+__San Diego State University__
 
 
 
-## Awards
+
+## Experience
 
 `2012`
 President, *Royal Society*, London, UK
