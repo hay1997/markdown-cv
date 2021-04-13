@@ -29,9 +29,11 @@ Health Policy, Urban Policy, Environmental Policy
 
 `October 2020 - June 2022`
 __University of California Riverside.__
+Master's of Public Policy
 
 `August 2016 - December 2019`
 __San Diego State University__
+Bachelor of Arts, Political Science
 
 
 
@@ -41,14 +43,18 @@ __San Diego State University__
 `April 2021 - Current`
 Graduate Research Assistant, Environmental Policy and Economics *UC Riverside*, Riverside, CA 
 
+
 `October 2020 - Current`
 Health Policy Fellow, *City of Perris*, Perris, CA 
+
 
 `February 2019 - August 2020`
 Barista/Server, *North Italia and Bella Vista Cafe* San Diego, CA 
 
+
 `May 2019 - August 2019`
 Government Affairs Intern, *Planned Parenthood of the Pacific Southwest*, San Diego, CA 
+
 
 
 `March 2018 - June 2018`
