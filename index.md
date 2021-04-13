@@ -1,19 +1,19 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Haley Welch's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Haley Welch
+Graduate Student, Master's of Public Policy,Univeristy of California Riverside.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
+<a href="haleyamanda.welch@gmail.com">isaac@applesdofall.org</a>
 | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+First year Graduate Student at the Univeristy of California Riverside 
 
 ### Specialized in
 
