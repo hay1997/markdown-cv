@@ -6,14 +6,14 @@ title: Haley Welch's CV
 Graduate Student, Master's of Public Policy, Univeristy of California Riverside.
 
 <div id="webaddress">
-<a href="haleyamanda.welch@gmail.com">haleyamanda.welch@gmail.comg</a>
+<a href="haleyamanda.welch@gmail.com">haleyamanda.welch@gmail.com</a>
 | <a href="www.linkedin.com/in/haley-welch-31a327121">My Linkedin page</a>
 </div>
 
 
 ## Currently
 
-First year Graduate Student at the Univeristy of California Riverside 
+First year Graduate Student at the University of California Riverside 
 
 ### Specialized in
 
@@ -38,43 +38,21 @@ __San Diego State University__
 
 ## Experience
 
-`2012`
-President, *Royal Society*, London, UK
+`April 2021 - Current`
+Graduate Research Assistant, Environmental Policy and Economics *UC Riverside*, Riverside, CA 
 
-Associate, *French Academy of Science*, Paris, France
+`October 2020 - Current`
+Health Policy Fellow, *City of Perris*, Perris, CA 
 
+`February 2019 - August 2020`
+Barista/Server, *North Italia and Bella Vista Cafe* San Diego, CA 
 
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`May 2019 - August 2019`
+Government Affairs Intern, *Planned Parenthood of the Pacific Southwest*, San Diego, CA 
 
 
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`March 2018 - June 2018`
+ Intern, *Sara Jacobs for Congress*, Carlsbad, CA 
 
 
 
